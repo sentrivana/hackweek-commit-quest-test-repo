@@ -1,5 +1,3 @@
 Some text
 
 More text
-
-Even more text
